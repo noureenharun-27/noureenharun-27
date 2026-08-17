@@ -79,7 +79,7 @@ An embedded plant monitoring system using sensors and a microcontroller to monit
 
 **Technologies:** Arduino/ESP32 • Sensors • Python • Streamlit • Plotly
 
-→ [View Repository](YOUR_REPOSITORY_LINK)
+→ [View Repository](https://github.com/noureenharun-27/Plant-Sense)
 
 ---
 
