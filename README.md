@@ -6,7 +6,7 @@ I'm a BS Electronics & Computing student who enjoys turning ideas into working s
 
 I'm particularly interested in **Embedded Systems, Robotics, IoT, PCB Design, and intelligent hardware-software integration.**
 
-[🌐 Portfolio](YOUR_PORTFOLIO_LINK) • [💼 LinkedIn](YOUR_LINKEDIN_LINK) • [📧 Email](YOUR_EMAIL) • [🐙 GitHub](https://github.com/noureenharun-27)
+[🌐 Portfolio](https://noureen-porfolio.lovable.app) • [💼 LinkedIn](https://www.linkedin.com/in/noureen-harun-b28652280) • [📧 Email](noureenh4run@gmail.com) • [🐙 GitHub](https://github.com/noureenharun-27)
 
 ---
 
